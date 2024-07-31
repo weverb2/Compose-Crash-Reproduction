@@ -1,6 +1,6 @@
 # Crash Reproduction Steps
 
-1. Run the application in release mode:
+1. Run the application in release mode on an Android 11 (SDK 30) or earlier device:
 
     `./gradlew :app:installRelease`
 
